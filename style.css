@@ -146,6 +146,7 @@ p {
   width: 100%;
   max-width: 360px;
   padding: 18px 139px;
+  outline: none;
   border: none;
   border-radius: 0 0 5px 5px;
   background-color: #ff9b51;
